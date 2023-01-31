@@ -1,0 +1,179 @@
+html{
+    margin: 0;
+    padding: 0;
+    background: rgb(248, 138, 213);
+    color: white;
+}
+header{
+    margin: 10px 0;
+    padding: 20px 0;
+    text-align: center;
+    font-size: 32px;
+    font-family: Arial, Helvetica, sans-serif; 
+    background: rgb(144, 144, 241);
+    border-radius: 5px;
+}
+nav{
+    background: rgb(217, 102, 243);
+}
+nav ul a{
+    display: inline-block;
+    margin: 8px 8px;
+    padding: 5px 50px;
+    border: 1px solid rgb(201, 225, 233);
+    border-radius: 4px;
+    text-align: center;
+    display: flex;
+
+}
+/* NETSCAPE */
+.m{
+    border-radius: 5px;
+    margin: 10px auto;
+    display: flex;
+}
+.p{
+    margin: auto;
+    padding: 10px;
+    background: green;
+    font-size: 25px;
+    border-radius: 2px;
+}
+.t{
+    background: green;
+    color: white;
+}
+/* INTERNET EXPLORER */
+.me{
+    border-radius: 5px;
+    margin: auto;
+    display: flex;
+    width: 400px;
+    height: 200px;
+}
+.pe{
+    margin: 5%;
+    padding: 10px;
+    background: rgb(105, 184, 233);
+    font-size: 20px;
+    border-radius: 2px;
+    text-align: center;
+    
+}
+.te{
+    background: rgb(105, 184, 233);
+    color: white;
+}
+/* OPERA */
+.mo{
+    border-radius: 5px;
+    margin: auto;
+    display: flex;
+    width: 400px;
+    height: 200px;
+}
+.po{
+    margin: 5%;
+    padding: 10px;
+    background: rgb(219, 113, 113);
+    font-size: 20px;
+    border-radius: 2px;
+    text-align: center;
+}
+.to{
+    background: rgb(219, 113, 113);
+    color: white;
+}
+/* MOZILLA */
+
+.mz{
+    border-radius: 5px;
+    margin: auto;
+    display: flex;
+    width: 400px;
+    height: 300px;
+}
+.pz{
+    margin: 5%;
+    padding: 10px;
+    background: rgb(234, 36, 36);
+    font-size: 20px;
+    border-radius: 2px;
+    text-align: center;
+}
+.tz{
+    background: rgb(234, 36, 36);
+    color: white;
+}
+/* SAFARI */
+.ms{
+    border-radius: 5px;
+    margin: auto;
+    display: flex;
+    width: 500px;
+    height: 300px;
+}
+.ps{
+    margin: auto;
+    padding: 10px;
+    background: rgb(120, 120, 122);
+    font-size: 20px;
+    border-radius: 2px;
+    text-align: center;
+}
+.ts{
+    background: rgb(120, 120, 122);
+    color: white;
+}
+/* FIREFOX */
+.mf{
+    border-radius: 5px;
+    margin: auto;
+    display: flex;
+    width: 300px;
+    height: 300px;
+}
+.pf{
+    margin: auto;
+    padding: 10px;
+    background: rgb(222, 105, 10);
+    font-size: 20px;
+    border-radius: 2px;
+    text-align: center;
+}
+.tf{
+    background: rgb(222, 105, 10);
+    color: white;
+}
+/* Google Chrome */
+.mg{
+    border-radius: 5px;
+    margin: auto;
+    display: flex;
+    width: 500px;
+    height: 200px;
+}
+.pg{
+    margin: auto;
+    padding: 10px;
+    background: rgb(62, 189, 39);
+    font-size: 20px;
+    border-radius: 2px;
+    text-align: center;
+    margin: 5%;
+}
+.tg{
+    background: rgb(222, 242, 40);
+    color: white;
+    
+}
+
+footer{
+    margin: 5%;
+    padding: 10px;
+    text-align: center;
+    font-size: 17px;
+    font-family: Arial, Helvetica, sans-serif;
+    background: rgb(158, 158, 243);
+    border-radius: 5px;
+}
